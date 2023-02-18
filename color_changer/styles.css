@@ -1,0 +1,34 @@
+
+.nn{
+    float: right inline-end;
+    padding: 20px;
+}
+#head{
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 500px;
+    color: blueviolet;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(117, 63, 167);
+}
+.mm{
+    background-color:aliceblue;
+    box-shadow: inset;
+}
+.ii{
+    padding: 20px;
+    color: antiquewhite;
+}
+
+.cc{
+    background-color: rgb(15, 12, 12);
+    color: antiquewhite;
+    width: 500px;
+    height: 80px;
+    border-radius: 15px;
+
+}
